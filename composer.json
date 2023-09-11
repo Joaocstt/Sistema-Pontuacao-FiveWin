@@ -1,0 +1,15 @@
+{
+    "name": "joao/site_pontuacao-copia",
+    "autoload": {
+        "psr-4": {
+            "app\\": "app"
+        }
+    },
+    "authors": [
+        {
+            "name": "ShanksCode",
+            "email": "jnc201820@gmail.com"
+        }
+    ],
+    "require": {}
+}
