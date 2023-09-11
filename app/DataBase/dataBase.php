@@ -13,25 +13,25 @@ class  DataBase
      * Host da conexão com o banco de dados
      * @var string
      */
-    const HOST = 'localhost';
+    const HOST = '';
 
     /**
      * Nome do banco de dados
      * @var string
      */
-    const NAME = 'Escola';
+    const NAME = '';
 
     /**
      * Usuário do banco de dados
      * @var string
      */
-    const USER = 'root';
+    const USER = '';
 
     /**
      * Senha do banco de dados
      * @var string
      */
-    const PASS = 'root';
+    const PASS = '';
 
 
     /**
