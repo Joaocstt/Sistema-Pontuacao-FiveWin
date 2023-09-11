@@ -2,7 +2,7 @@
 
     namespace app\Entity;
 
-    use app\dataBase\DataBase;
+    use app\DataBase\DataBase;
 
     use \PDO;
     use PDOException;

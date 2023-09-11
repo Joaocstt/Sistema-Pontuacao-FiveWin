@@ -6,7 +6,7 @@ use \PDO;
 use \PDOException;
 
 
-class  dataBase
+class  DataBase
 {
 
     /**
